@@ -57,7 +57,7 @@ MANUFACTURERINFO="ASUSTek Computer Inc."
 # Kernel Variant
 NAMA=RTX-Project-HMP-S
 
-KERNEL_FOR=NLV-HMP-Overclock
+KERNEL_FOR=LV-HMP-Overclock
 
 JENIS=[LV]
 
